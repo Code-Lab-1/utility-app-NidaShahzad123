@@ -23,7 +23,7 @@ while answer == "yes":
         price=5
         print("please pay:",price)
     elif wanted_item==6:
-        price=6
+        price=2
         print("please pay:",price)
     else :
         print("error")
